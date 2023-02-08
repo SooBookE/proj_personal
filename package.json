@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/SooBookE/proj_personal/issues"
   },
-  "homepage": "https://github.com/SooBookE/proj_personal#readme"
+  "homepage": "https://github.com/SooBookE/proj_personal#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0",
+    "openai": "^3.1.0"
+  }
 }
